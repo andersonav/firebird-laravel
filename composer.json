@@ -33,7 +33,7 @@
         "php": "^8.2",
         "ext-pdo": "*",
         "ext-pdo_firebird": "*",
-        "illuminate/events": "^11.23",
+        "illuminate/events": "^11.0",
         "harrygulliford/laravel-firebird": "dev-laravel-11.x"
         
     },
