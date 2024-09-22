@@ -1,0 +1,45 @@
+{
+    "name": "alves/firebird-laravel",
+    "description": "Firebird package for use with Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Alves",
+            "email": "andersonalves.dev@gmail.com"
+        }, 
+        {
+            "name": "Anderson Sousa",
+            "email": "andersomsousa1406@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alves\\Firebird\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "ext-pdo": "*",
+        "ext-pdo_firebird": "*",
+        "illuminate/events": "^11.23",
+        "harrygulliford/laravel-firebird": "dev-laravel-11.x"
+        
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3",
+        "fakerphp/faker": "^1.22",
+        "illuminate/config": "^11.23"
+    }
+}
