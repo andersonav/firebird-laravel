@@ -6,7 +6,7 @@ namespace Alves\Firebird\Increasers;
  * IncreaseById
  *
  * @author Anderson Alves <andersonalves.dev@gmail.com>
- * @version 1.0.0
+ * @version 4.0.0
  * @package Alves\Firebird\Increasers
  */
 class IncreaseById

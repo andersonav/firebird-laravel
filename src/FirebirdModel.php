@@ -10,7 +10,7 @@ use RuntimeException;
  * FirebirdModel
  *
  * @author  Anderson Alves <andersonalves.dev@gmail.com>
- * @version 2.0.0
+ * @version 4.0.0
  * @package Alves\Firebird
  */
 class FirebirdModel extends Model
