@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6e0d07ae5d96009aedc7a837d387b698",
+    "content-hash": "47e62bfcf787966419550f4a71dce437",
     "packages": [
         {
             "name": "andersonav/firebird-connector",
-            "version": "v1.0.0",
+            "version": "v2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/andersonav/firebird-connector.git",
-                "reference": "77a9a24234de9a99eabdf982f33c32735e2012c6"
+                "reference": "0571f675292987a046ab0da8fa789d27fa0486b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/andersonav/firebird-connector/zipball/77a9a24234de9a99eabdf982f33c32735e2012c6",
-                "reference": "77a9a24234de9a99eabdf982f33c32735e2012c6",
+                "url": "https://api.github.com/repos/andersonav/firebird-connector/zipball/0571f675292987a046ab0da8fa789d27fa0486b1",
+                "reference": "0571f675292987a046ab0da8fa789d27fa0486b1",
                 "shasum": ""
             },
             "require": {
@@ -53,9 +53,9 @@
             "description": "Firebird database driver for the Laravel Framework",
             "support": {
                 "issues": "https://github.com/andersonav/firebird-connector/issues",
-                "source": "https://github.com/andersonav/firebird-connector/tree/v1.0.0"
+                "source": "https://github.com/andersonav/firebird-connector/tree/v2.0.0"
             },
-            "time": "2024-09-29T21:44:33+00:00"
+            "time": "2024-09-30T14:42:58+00:00"
         },
         {
             "name": "brick/math",
